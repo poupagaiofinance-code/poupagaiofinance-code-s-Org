@@ -1,0 +1,18 @@
+:root {
+  /* Poupagaio Finance - Tema Oficial */
+  --bg-page: #f8faf8;
+  --bg-surface: #ffffff;
+  --bg-surface-subtle: #f0f4f1;
+  --text-primary: #111d16;
+  --text-secondary: #4b5d52;
+  --text-muted: #73847a;
+  --brand-primary: #15803d;
+  --brand-primary-hover: #166534;
+  --brand-subtle: #edf7f0;
+  --brand-border: #bbf7d0;
+  --border-color: #dbe4de;
+  --border-light: #eaf0ec;
+  --radius-sm: 0.375rem;
+  --radius-md: 0.5rem;
+  --radius-lg: 0.75rem;
+}
